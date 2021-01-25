@@ -1,0 +1,6 @@
+
+net "a" LOC = P21;
+net "b" LOC = P22;
+
+net "s" LOC = P33;
+net "c" LOC = P32;

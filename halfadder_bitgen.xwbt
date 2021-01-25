@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=D:\ISE 14.7 PROJECT\ise 14.7\halfadder\halfadder.ncd
+OUTFILE=D:\ISE 14.7 PROJECT\ise 14.7\halfadder\halfadder.bit
+FAMILY=Spartan6
+PART=xc6slx9-2tqg144
+WORKINGDIR=D:\ISE 14.7 PROJECT\ise 14.7\halfadder
+LICENSE=WebPack
+USER_INFO=212063901_0_0_560
